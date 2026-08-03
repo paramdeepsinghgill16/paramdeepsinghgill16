@@ -25,9 +25,11 @@ My current research revolves around **Machine Learning, Explainable AI (XAI), an
 <a href="https://www.paramdeepsinghgill16.net" target="_blank">
 Website
 </a>  
+
 <a href="https://linkedin.com/in/paramdeepsinghgill16/" target="_blank">
 LinkedIn
 </a>  
+
 <a href="mailto:paramdeepsinghgill16@gmail.com">
 Email
 </a>
