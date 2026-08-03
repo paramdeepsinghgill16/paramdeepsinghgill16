@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Paramdeep Singh Gill! 👋
 
-<!--
-**paramdeepsinghgill16/paramdeepsinghgill16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student at **Thapar Institute of Engineering and Technology (TIET)** and was a **Research Intern at IIT Ropar**, where I explored Knowledge Distillation for model compression in the medical domain. 
 
-Here are some ideas to get you started:
+My current research revolves around **Machine Learning, Explainable AI (XAI), and Federated Learning**, with a strong focus on privacy-preserving techniques. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently working on
+* **XAI-FL:** Integrating Explainable AI on models trained using Federated Learning, focusing on Differential Privacy.
+* **BioFL:** Applying Federated Learning on unexplored biomedical datasets.
+* **Deepfake Detection:** Building multi-modal (audio-video) deepfake detection models using PyTorch.
+
+### 🏆 Milestones & Highlights
+* 🥇 **Winner:** Smart India Hackathon (SIH) 2022 (Senior Software Edition).
+* 🎤 **Speaker:** Presented research at the International Conference on Statistical Learning (ICSL) 2025.
+* 🤖 **Judge:** Evaluated the 'Future Innovators' category at the WRO 2026 Regional Championship.
+* 🥈 **Runner-Up:** HackForSustainability 2023 (Saturnalia Fest).
+
+### 🛠️ Technical Arsenal
+* **AI & Machine Learning:** PyTorch, InterpretML, NVFlare, OpenCV, Knowledge Distillation, Federated Learning
+* **Languages:** Python, C, C++, Dart, SQL
+* **Frameworks & Dev:** Flutter, Firebase, Django
+* **Tools:** Linux, Git, GitHub, LaTeX, JupyterLab
+
+### 📬 Let's Connect
+<p>
+  <a href="https://www.paramdeepsinghgill16.net" target="_blank">
+    Website
+  </a>
+  <a href="https://linkedin.com/in/paramdeepsinghgill16/" target="_blank">
+    LinkedIn
+  </a>
+  <a href="mailto:paramdeepsinghgill16@gmail.com">
+    Email
+  </a>
+</p>
+
+---
