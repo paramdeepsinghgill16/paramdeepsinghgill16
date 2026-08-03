@@ -22,16 +22,14 @@ My current research revolves around **Machine Learning, Explainable AI (XAI), an
 * **Tools:** Linux, Git, GitHub, LaTeX, JupyterLab
 
 ### 📬 Let's Connect
-<p>
-  <a href="https://www.paramdeepsinghgill16.net" target="_blank">
-    Website
-  </a>
-  <a href="https://linkedin.com/in/paramdeepsinghgill16/" target="_blank">
-    LinkedIn
-  </a>
-  <a href="mailto:paramdeepsinghgill16@gmail.com">
-    Email
-  </a>
-</p>
+<a href="https://www.paramdeepsinghgill16.net" target="_blank">
+Website
+</a>  
+<a href="https://linkedin.com/in/paramdeepsinghgill16/" target="_blank">
+LinkedIn
+</a>  
+<a href="mailto:paramdeepsinghgill16@gmail.com">
+Email
+</a>
 
 ---
