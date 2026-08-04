@@ -15,7 +15,7 @@ My current research revolves around **Machine Learning, Explainable AI (XAI), an
 * **Judge:** Evaluated the 'Future Innovators' category at the WRO 2026 Regional Championship.
 * **Runner-Up:** HackForSustainability 2023 (Saturnalia Fest).
 
-### Technical Arsenal
+### Technical Skills
 * **AI & Machine Learning:** PyTorch, InterpretML, NVFlare, OpenCV, Knowledge Distillation, Federated Learning
 * **Languages:** Python, C, C++, Dart, SQL
 * **Frameworks & Dev:** Flutter, Firebase, Django
